@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../C82CanvasPaint"
+		},
+		{
+			"path": "../C81CanvasCircle"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C82CanvasPaint"
+	}
+}
